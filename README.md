@@ -8,3 +8,5 @@ json-server --watch src/api-data/bands.json --port 3001
 ## start the app
 yarn start
 
+## change ressult data 
+ src/api-data/bands.json
