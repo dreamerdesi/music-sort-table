@@ -31,7 +31,7 @@ class App extends Component {
   }
 
   componentDidMount() {
-    axios.get('http://localhost:4000/band-results')
+    axios.get('http://localhost:3001/band-results')
       .then(response => {
         this.setState({
           bands: response.data
