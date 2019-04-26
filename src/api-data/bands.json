@@ -1,0 +1,64 @@
+{
+    "band-results": [
+    {
+        "id": "1",
+        "name": "Fleetwood Mac",
+        "year": "1967",
+        "active" : "Yes"
+
+    },
+    {
+        "id": "2",
+        "name": "Queen",
+        "year": "1970",
+        "active" : "No"
+    },
+    {
+        "id": "3",
+        "name": "Talking Heads",
+        "year": "1975",
+        "active": "No"
+    },
+    {
+        "id": "4",
+        "name": "Tom Petty & the Heartbreakers",
+        "year": "1976",
+        "active": "No"
+    },
+    {
+        "id": "5",
+        "name": "Jackson Browne",
+        "year": "1966",
+        "active": "Yes"
+    },
+    {
+        "id": "6",
+        "name": "Blondie",
+        "year": "1974",
+        "active": "Yes"
+    },
+    {
+        "id": "7",
+        "name": "The Cars",
+        "year": "1976",
+        "active": "No"
+    },
+    {
+        "id": "8",
+        "name": "Cheap Trick",
+        "year": "1973",
+        "active": "Yes"
+    },
+    {
+        "id": "9",
+        "name": "Foreigner",
+        "year": "1976",
+        "active": "Yes"
+    },
+    {
+        "id": "10",
+        "name": "The Police",
+        "year": "1977",
+        "active": "No"
+    }]
+}
